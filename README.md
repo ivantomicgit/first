@@ -1,3 +1,4 @@
+
 # first
 
 This application was generated using JHipster 8.0.0-rc.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v8.0.0-rc.1](https://www.jhipster.tech/documentation-archive/v8.0.0-rc.1).
@@ -258,3 +259,4 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [Leaflet]: https://leafletjs.com/
 [DefinitelyTyped]: https://definitelytyped.org/
 [Angular CLI]: https://cli.angular.io/
+
